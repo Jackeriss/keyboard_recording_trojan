@@ -6,3 +6,7 @@ A keyboard recording trojan
 
 警告：
 本源码只能用于学习交流，禁止用于任何非法用途！
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Jackeriss/keyboard_recording_trojan/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
