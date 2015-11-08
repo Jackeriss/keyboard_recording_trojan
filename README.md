@@ -3,9 +3,9 @@ A keyboard recording trojan
 ## Warning
 DO NOT USE THIS CODE TO DO ANYTHING ILLEGAL !!!  
 ## Environment
-OS:Windows/Mac Os/Linux
-Python edition:Python2.x
-Packages:pyHook/email/pywin32
+OS:Windows/Mac Os/Linux  
+Python edition:Python2.x  
+Packages:pyHook/email/pywin32  
 ## Illustration
 1、本压缩包中含有经过伪装的360安全卫士图标文件“ABE.glj”，  
 2、若要打包进行测试则可将程序名改为“开始游戏”或更改源码中相应的位置，否则无法完成将自身复制到C盘。
