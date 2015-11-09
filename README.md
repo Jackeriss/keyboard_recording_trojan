@@ -3,7 +3,7 @@ A keyboard recording trojan
 ## Warning
 DO NOT USE THIS CODE TO DO ANYTHING ILLEGAL !!!  
 ## Environment
-OS:Windows/Mac Os/Linux  
+OS:Windows  
 Python edition:Python2.x  
 Packages:pyHook/email/pywin32  
 ## Illustration
