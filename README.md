@@ -1,5 +1,5 @@
 #keyboard_recording_trojan
-[![EOL](https://img.shields.io/badge/Status-EOF-lightgrey.svg?style=flat-square)]()  
+[![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
 A keyboard recording trojan  
 ## Warning
 DO NOT USE THIS CODE TO DO ANYTHING ILLEGAL !!!  
