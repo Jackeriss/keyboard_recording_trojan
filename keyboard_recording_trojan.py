@@ -9,7 +9,6 @@
     Author:  Jackeriss    
     Email:  i@jackeriss.com
     Site:  http://www.jackeriss.com
-    Blog:  http://blog.csdn.net/jackeriss
 """
 
 import os
