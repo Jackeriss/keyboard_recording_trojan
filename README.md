@@ -1,6 +1,6 @@
 # 键盘记录木马
 [![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
-一个可以记录键盘输入并发送到指定邮箱的简单木马
+一个可以记录键盘输入并发送到指定邮箱的简单木马。
 ## 警告
 禁止用于非法活动
 ## 说明
