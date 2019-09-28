@@ -1,18 +1,12 @@
-# keyboard_recording_trojan
+# 键盘记录木马
 [![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
-A keyboard recording trojan  
-## Warning
-DO NOT USE THIS CODE TO DO ANYTHING ILLEGAL !!!  
-## Environment
-
-    OS:Windows  
-    Python edition:Python2.x  
-    Packages:pyHook/email/pywin32  
-
-## Illustration
+一个可以记录键盘输入并发送到指定邮箱的简单木马
+## 警告
+禁止用于非法活动
+## 说明
 1、本压缩包中含有经过伪装的360安全卫士图标文件“ABE.glj”，  
 2、若要打包进行测试则可将程序名改为“开始游戏”或更改源码中相应的位置，否则无法完成将自身复制到C盘。
-## Introduction
+## 介绍
 它可以根据要记录密码的关键词（如“QQ”）匹配当前活动窗口，若含有关键词则记录用户在此窗口内的所有输入，当用户输入回车或点击鼠标左键时进行屏幕截图，并将所记录的输入信息和截图发送到指定邮箱。  
 ![1](http://img.blog.csdn.net/20150309214837529)  
 可我又怎么会那么容易满足呢？让我们来把它做得更像木马一些吧！ 首先，它不能长得就像个木马，我们来把它伪装成一个游戏的开始程序。  
